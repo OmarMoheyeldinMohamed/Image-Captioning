@@ -35,3 +35,5 @@ Finally, run the follwing commant to use the saved files and evaluate the model.
 ```
 python evaluation.py 
 ```
+
+Finally, if you want to use the model to get predictions for single images run this [google colab](https://colab.research.google.com/drive/1lOXEAHm2ewPWZONICc2GGo4ozoiDizPm?usp=sharing) notebook. To run it you will need the final model weights to be uploaded on your drive in the folder "My Drive/CLIP". You can use any of our model weights by downloading this [folder](https://drive.google.com/drive/folders/1Cg6I2ncj8MoNEZi0Z79fduFVQrcYdiX5?usp=sharing).
